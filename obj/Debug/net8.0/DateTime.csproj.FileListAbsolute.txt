@@ -1,0 +1,14 @@
+/home/martin/DateTime/bin/Debug/net8.0/DateTime
+/home/martin/DateTime/bin/Debug/net8.0/DateTime.deps.json
+/home/martin/DateTime/bin/Debug/net8.0/DateTime.runtimeconfig.json
+/home/martin/DateTime/bin/Debug/net8.0/DateTime.dll
+/home/martin/DateTime/bin/Debug/net8.0/DateTime.pdb
+/home/martin/DateTime/obj/Debug/net8.0/DateTime.GeneratedMSBuildEditorConfig.editorconfig
+/home/martin/DateTime/obj/Debug/net8.0/DateTime.AssemblyInfoInputs.cache
+/home/martin/DateTime/obj/Debug/net8.0/DateTime.AssemblyInfo.cs
+/home/martin/DateTime/obj/Debug/net8.0/DateTime.csproj.CoreCompileInputs.cache
+/home/martin/DateTime/obj/Debug/net8.0/DateTime.dll
+/home/martin/DateTime/obj/Debug/net8.0/refint/DateTime.dll
+/home/martin/DateTime/obj/Debug/net8.0/DateTime.pdb
+/home/martin/DateTime/obj/Debug/net8.0/DateTime.genruntimeconfig.cache
+/home/martin/DateTime/obj/Debug/net8.0/ref/DateTime.dll
