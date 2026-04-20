@@ -12,3 +12,4 @@
 /home/martin/DateTime/obj/Debug/net8.0/DateTime.pdb
 /home/martin/DateTime/obj/Debug/net8.0/DateTime.genruntimeconfig.cache
 /home/martin/DateTime/obj/Debug/net8.0/ref/DateTime.dll
+/home/martin/DateTime/obj/Debug/net8.0/DateTime.sourcelink.json
